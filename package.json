@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "\" a command-line role-playing game (RPG) in which a user battles agaisnt a series of enemies whose health and stats can be sustained by a potion.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlolivas/jest-another-RPG.git"
+  },
+  "author": "Diana Olivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlolivas/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/dlolivas/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
